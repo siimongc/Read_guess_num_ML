@@ -14,29 +14,11 @@ Este proyecto permite reconocer números escritos a mano en una pizarra digital.
 
 ---
 
-## 📊 Modelo entrenado
-
-- **Algoritmo**: Random Forest Classifier
-- **Cantidad de imágenes de entrenamiento**: 70,000
-- **Fuente de datos**: Dataset de imágenes de dígitos manuscritos (probablemente MNIST)
-- **Precisión esperada**: Moderada. Dado el tamaño limitado del dataset, se recomienda dibujar los números de forma **clara y gruesa** para mejorar la precisión del modelo.
-
----
-
 ## ⚠️ Recomendaciones para un mejor reconocimiento
 
 - Usa trazos **gruesos y definidos**.
 - Intenta **centrar el número** en la pizarra.
 - Evita escribir números muy pequeños o con líneas cortadas.
-
----
-
-## 🧰 Tecnologías utilizadas
-
-- Python 🐍
-- Scikit-learn
-- HTML, CSS y JavaScript para la interfaz
-- Librerías de visualización y preprocesamiento de imágenes
 
 ---
 
@@ -55,12 +37,4 @@ Este proyecto permite reconocer números escritos a mano en una pizarra digital.
 
 ---
 
-## 📩 Contribuciones
 
-¿Te gustaría mejorar el modelo o la interfaz? ¡Eres bienvenido a colaborar! Abre un issue o envía un pull request con tus sugerencias.
-
----
-
-## Licencia
-
-Este proyecto es de uso libre para fines educativos y experimentales. ¡Diviértete aprendiendo!
